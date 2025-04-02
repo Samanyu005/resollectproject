@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Portfolio.css";
+
 
 const Portfolio = () => {
   const [projects, setProjects] = useState([]);
